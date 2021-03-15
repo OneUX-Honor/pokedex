@@ -24,8 +24,8 @@ body {
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
-  width: 200px;
-  min-margin-top: 20px;
+  min-width: 200px;
+  margin-top: 20px;
   background-color: #fff;
   padding: 10px;
   border-radius: 10px;
